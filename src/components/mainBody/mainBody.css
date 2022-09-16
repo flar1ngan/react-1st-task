@@ -1,9 +1,0 @@
-.mainBody {
-    width: 100%;
-    height: calc(100vh - 150px);
-    background-color: #F1DEDE;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: center;
-}
